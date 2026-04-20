@@ -1,6 +1,6 @@
 👋 Hi, I’m Nikola Nikolov
 
-🎮 23 y/o developer from **Bulgaria**, passionate about **game development** with a background in **web dev**.  
+🎮 24 y/o developer from **Bulgaria**, passionate about **game development** with a background in **web dev**.  
 💻 By day, I work with **PHP** and **SQL**. By night, I build games with **Python**, **GDScript**, and **Godot**.  
 🕹 I enjoy turning ideas into interactive worlds — from prototypes to full projects.  
 🚀 **Goal:** Shift from web dev to full-time **game developer**.  
